@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon premier site</title>
+</head>
+<body>
+
+    <h1>Bienvenue sur mon site</h1>
+
+    <p>Ceci est mon premier site web en HTML 😊</p>
+
+    <h2>Menu</h2>
+    <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">À propos</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+
+    <h2>Image</h2>
+    <img src="https://via.placeholder.com/300" alt="Image exemple">
+
+    <h2>Formulaire</h2>
+    <form>
+        <label>Nom :</label><br>
+        <input type="text"><br><br>
+
+        <label>Email :</label><br>
+        <input type="email"><br><br>
+
+        <button type="submit">Envoyer</button>
+    </form>
+
+    <footer>
+        <p>© 2026 Mon site</p>
+    </footer>
+
+</body>
+</html>
